@@ -1,0 +1,2 @@
+Testing files added in the branching stage.
+Goal: To merge the files in a branch to the master
