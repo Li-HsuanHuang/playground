@@ -1,0 +1,2 @@
+Import multiple files to Github via git add *
+
